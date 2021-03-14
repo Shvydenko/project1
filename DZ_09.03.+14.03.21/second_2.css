@@ -1,0 +1,46 @@
+.depp_center {text-align: center;
+}
+.color{
+    background: greenyellow;
+    width: 700px;
+    margin-left: 400px;
+    margin-right: 400px ;
+    height:600px;
+    box-sizing: border-box;
+}
+.ul{
+    height: 60px;
+    width: 1000px;
+    margin-left: 230px;
+    box-sizing: border-box;
+}
+.ul{
+    display: flex;
+    justify-content: space-around;
+}
+.poster1{
+    background: red;
+    text-align: center;
+}
+.poster2{
+    background: darkolivegreen;
+    text-align: center;
+}
+.poster3{
+    background: firebrick;
+    text-align: center;
+}
+.margine{
+    margin:unset;
+}
+.borde-color{
+    border: 10px solid gold;
+    border-right-color: red;
+    border-bottom-color: firebrick;
+    border-left-color: #e48cff;
+}
+.title{
+    box-sizing: border-box;
+    margin-left: 300px;
+    margin-right: 300px;
+}

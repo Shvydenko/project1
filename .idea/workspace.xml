@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a1bf4cbb-6bf3-42c2-a825-25827298978a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1pTQchv2jUWtnm7csqcYqUydLn7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Shved\PycharmProjects\project1" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1bf4cbb-6bf3-42c2-a825-25827298978a" name="Default Changelist" comment="" />
+      <created>1615204682004</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615204682004</updated>
+      <workItem from="1615204684192" duration="106000" />
+      <workItem from="1615204858954" duration="1604000" />
+      <workItem from="1615206489373" duration="952000" />
+      <workItem from="1615207467321" duration="251000" />
+      <workItem from="1615207734237" duration="1752000" />
+      <workItem from="1615209518360" duration="2237000" />
+      <workItem from="1615219428144" duration="62000" />
+      <workItem from="1615226021084" duration="4945000" />
+      <workItem from="1615313999321" duration="4880000" />
+      <workItem from="1615320018727" duration="1704000" />
+      <workItem from="1615362057164" duration="866000" />
+      <workItem from="1615363003589" duration="149000" />
+      <workItem from="1615363264191" duration="72000" />
+      <workItem from="1615394433684" duration="690000" />
+      <workItem from="1615395169388" duration="171000" />
+      <workItem from="1615395364229" duration="4036000" />
+      <workItem from="1615399925277" duration="3394000" />
+      <workItem from="1615413494488" duration="92000" />
+      <workItem from="1615495616497" duration="227000" />
+      <workItem from="1615496036893" duration="35000" />
+      <workItem from="1615496088321" duration="12000" />
+      <workItem from="1615648792151" duration="5058000" />
+      <workItem from="1615742704786" duration="4122000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
