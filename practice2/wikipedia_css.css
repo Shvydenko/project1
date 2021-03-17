@@ -1,0 +1,62 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.Bit {
+    margin-left: 250px;
+    margin-top: 150px;
+    margin-right: 250px ;
+}
+
+.This {
+    padding-left: 22px;
+}
+.This1{
+    font-style: italic;
+}
+
+.History {font-style: normal;
+    font-weight: 100;
+}
+
+.History_text {
+    font-family: "Times New Roman", serif;
+}
+
+.Transmission {
+    font-family: Arial, serif;
+}
+
+.Information {font-family: "Georgia",serif;
+    font-weight: 500;
+}
+
+.Multiple {background: whitesmoke;
+    width: 100%;
+}
+.Multiple p {
+    width: 100%;
+}
+.Multiple img {
+    margin: 15px;
+    float: right;
+    width: 300px;
+    height: 200px;
+
+}
+
+.box {
+    background: whitesmoke;
+    width: 634px;
+    height: 73px;
+    margin-left: unset;
+}
+.center>div{
+    height: 99px;
+
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+}
